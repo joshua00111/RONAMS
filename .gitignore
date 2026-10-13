@@ -1,0 +1,25 @@
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+.cache/
+
+# Local tooling and OS files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
