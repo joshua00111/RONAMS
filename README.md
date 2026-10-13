@@ -26,3 +26,5 @@ Replace the `.invalid` sitemap host with the final public HTTPS domain and add c
 ## Deployment
 
 Upload the contents of this folder to a static web host. Use the host's HTTPS setting and point the domain at this folder. There is no build step.
+
+RONAMS — Your Trusted Partner in Legal, Business & Property Solutions.
